@@ -19,7 +19,8 @@ export default function Home() {
       <Counter />
 
       <p>
-        <Link href="/about">ไปหน้าเกี่ยวกับฉัน →</Link>
+        <Link href="/about"> ไปหน้าเกี่ยวกับฉัน</Link>
+        <Link href="/contact"> ติดต่อฉัน</Link>
       </p>
     </main>
   );
