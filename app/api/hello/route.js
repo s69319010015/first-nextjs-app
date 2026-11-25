@@ -1,6 +1,6 @@
 export async function GET() {
   return Response.json({
-    message: "สวัสดีจาก Backend ของ Next.js",
+    message: "นายนริศ ทองเจริญ ส.ท.ส.1/1 สาขาเทคโนโลยีสารสนเทศ",
     course: "Front-End Development",
     students: 35,
   });
