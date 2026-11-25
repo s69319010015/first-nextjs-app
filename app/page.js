@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main style={{ padding: "40px", fontFamily: "sans-serif" }}>
       <h1>ยินดีต้อนรับสู่เว็บไซต์ของ นริศ ทองเจริญ (Hello! I am Naris Thongjaroen)</h1>
-      <p>เว็บไซต์นี้สร้างด้วย Next.js และรันอยู่ภายใน Docker Container</p>
+      <p>เว็บไซต์นี้สร้างด้วย Next.js และรันอยู่ภายใน Docker Container!</p>
 
       <h2>ทักษะที่กำลังเรียน</h2>
       <ul>
